@@ -48,7 +48,7 @@ The attached files include:
 ## Getting Started
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/retail-datastage-project.git
+    git clone https://github.com/yassa3/IBM_DataStage_ETL.git
     ```
 2. Navigate to the project directory:
     ```sh
